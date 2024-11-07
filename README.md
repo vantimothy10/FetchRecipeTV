@@ -20,11 +20,11 @@ I prioritized adding enhanced filtering options, such as filter chips, to improv
 
 ### Time Spent: Approximately how long did you spend working on this project? How did you allocate your time?
 
-I dedicated approximately 6 hours to this project. The first hour was spent implementing the core MVP features. The majority of my time was then focused on creating a dual-caching system, as disk caching was an unusual requirement. Additionally, I spent time developing dependency injection patterns to facilitate effective unit testing.
+I spent roughly 6 hours on this project. Within the first hour I felt like I had the core MVP set of features. However the bulk of my time was spent creating a dual caching system since I thought in-memory caching would be better suited than disk-caching. In-memory caching alone achieves an optimal balance by reducing redundant API calls and mitigating stale data risks. I also spent additional time developing dependency injection patterns in order to create unit tests effective unit tests.
 
 ### Trade-offs and Decisions: Did you make any significant trade-offs in your approach?
 
-I spent roughly 6 hours on this project. Within the first hour I felt like I had the core MVP set of features. However the bulk of my time was spent creating a dual caching system since I thought in-memory caching would be better suited than disk-caching. In-memory caching alone achieves an optimal balance by reducing redundant API calls and mitigating stale data risks. I also spent additional time developing dependency injection patterns in order to create unit tests effective unit tests.
+I decided to invest time to develop patterns like dependency injection and more comprehensive caching. While these took extra time to implement, they improve code clarity and scalability. 
 
 ### Weakest Part of the Project: What do you think is the weakest part of your project?
 
