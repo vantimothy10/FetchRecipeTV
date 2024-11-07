@@ -1,10 +1,11 @@
 ### Screen Shots
-## Main Screen
+#### Main Screen
 <img src="https://github.com/user-attachments/assets/0a124301-9b2f-436f-a930-f87f460278e2" width="300" height="600">
 
-## Filter Active
+#### Filter Active
 <img src="https://github.com/user-attachments/assets/ca8f49e3-0305-497c-a00a-59236c0be21c" width="300" height="600">
-## No Recipes/ Error State
+
+### No Recipes/ Error State
 <img src="[https://github.com/user-attachments/assets/ca8f49e3-0305-497c-a00a-59236c0be21c](https://github.com/user-attachments/assets/783123fb-1c10-401f-8a77-d040daa36ff3)" width="300" height="600">
 
 ### Steps to Run the App
