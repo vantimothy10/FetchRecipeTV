@@ -1,10 +1,10 @@
 ### Screen Shots
 ## Main Screen
-![MainScreen](https://github.com/user-attachments/assets/0a124301-9b2f-436f-a930-f87f460278e2)
+![MainScreen](https://github.com/user-attachments/assets/0a124301-9b2f-436f-a930-f87f460278e2| width=100)
 ## Filter Active
-![FilterActive](https://github.com/user-attachments/assets/ca8f49e3-0305-497c-a00a-59236c0be21c)
+![FilterActive](https://github.com/user-attachments/assets/ca8f49e3-0305-497c-a00a-59236c0be21c| width=100)
 ## No Recipes/ Error State
-![NoRecipeFound](https://github.com/user-attachments/assets/783123fb-1c10-401f-8a77-d040daa36ff3)
+![NoRecipeFound](https://github.com/user-attachments/assets/783123fb-1c10-401f-8a77-d040daa36ff3| width=100)
 
 ### Steps to Run the App
 1. Clone this repo to your local machine
