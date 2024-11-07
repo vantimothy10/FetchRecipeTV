@@ -18,7 +18,7 @@ struct RecipeListView: View {
                 ScrollView {
                     LazyVStack() {
                         FilterChipContainerView(selectedItem: $viewModel.selectedFilter, items: viewModel.cuisines)
-                        if false {
+                        if !viewModel.recipes.isEmpty {
                             ForEach(viewModel.filteredRecipes) { recipe in
                                 RecipeListItemView(recipe: recipe)
                                     .onTapGesture {
